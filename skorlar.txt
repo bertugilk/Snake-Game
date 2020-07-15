@@ -1,0 +1,6 @@
+Skor: 90
+Skor: 100
+Skor: 20
+Skor: 10
+Skor: 0
+Skor: 0
